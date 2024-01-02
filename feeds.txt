@@ -21,3 +21,4 @@ https://other.caixin.com/itunes/101523091.xml
 http://75.127.6.164:1200/zhihu/zhuanlan/c_42421668
 https://podcasts.apple.com/us/podcast/%E5%AD%97%E8%B0%88%E5%AD%97%E7%95%85/id1041704528
 https://www.thetype.com/typechat/feed/
+http://75.127.6.164:1200/ixigua/user/video/95860301340
