@@ -4,8 +4,16 @@ rssTea is a lightweight web application that allows you to read RSS feeds and li
 
 ##这是一个podcast的实例，只需执行action中的main run就能看到比如
 https://coffiner.github.io/postcat
-当然你也可以设置你的Cname的地址为https://coffiner.github.io/，即可自定义域名，比如我的是feed.xuexiao.wiki
-当然你需要在
+当然你也可以设置你的Cname的地址为https://coffiner.github.io/
+，即可自定义域名，比如我的是
+feed.xuexiao.wiki
+
+当然你需要在https://github.com/settings/pages
+这个页面添加一个域名，并且cname解析为你的name.github.io
+（name为你的用户名）
+
+执行中，只需要更改你的feed。txt的feed地址即可。
+每次提交都会自动更新feed地址，注意的是需要先删除掉第一次运行的run实例。
 
 
 ## Features
