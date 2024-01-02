@@ -2,6 +2,10 @@
 
 rssTea is a lightweight web application that allows you to read RSS feeds and listen to podcasts directly in your browser. It can fetch feeds from a list provided in a text file and generate an RSS feed for easy consumption. This project utilizes PHP for feed parsing and generation. Additionally, it includes a front-end interface for browsing and playing content.
 
+##这是一个podcast的实例，只需执行action中的main run就能看到比如
+https://coffiner.github.io/postcat
+当然你也可以设置你的Cname的地址为https://coffiner.github.io/，即可自定义域名，比如我的是feed.xuexiao.wiki
+当然你需要在
 
 
 ## Features
