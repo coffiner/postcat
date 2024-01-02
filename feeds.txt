@@ -1,6 +1,17 @@
 https://feed.xyzfm.space/uqf3cf9dahxl
 http://75.127.6.164:1200/douban/group/726558
 http://75.127.6.164:1200/douban/group/647259
-
+https://catusf.github.io/radio2podcasts/MDRB-MandarinBeanAll.xml
+https://catusf.github.io/radio2podcasts/MDRB-MandarinBeanHSK1.xml
+https://catusf.github.io/radio2podcasts/MDRB-MandarinBeanHSK2.xml
+https://catusf.github.io/radio2podcasts/MDRB-MandarinBeanHSK3.xml
+https://catusf.github.io/radio2podcasts/MDRB-MandarinBeanHSK4.xml
+https://catusf.github.io/radio2podcasts/MDRB-MandarinBeanHSK5.xml
+https://catusf.github.io/radio2podcasts/MDRB-MandarinBeanHSK6.xml
+https://catusf.github.io/radio2podcasts/MDRB-MandarinBeanFun.xml
+https://catusf.github.io/radio2podcasts/MDRB-MandarinBeanStory.xml
+https://catusf.github.io/radio2podcasts/MDRB-MandarinBeanLifestyle.xml
+https://catusf.github.io/radio2podcasts/MDRB-MandarinBeanBizEconomics.xml
+https://catusf.github.io/radio2podcasts/MDRB-MandarinBeanCulture.xml
 
 
