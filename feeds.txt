@@ -1,4 +1,7 @@
 https://feed.xyzfm.space/uqf3cf9dahxl
+https://feed.firstory.me/rss/user/ckhfoy61shov20998tsrare9k
+https://feeds.listenbox.app/rss/35Vuxjb5Zxrp/audio.rss
+https://feeds.listenbox.app/rss/JKumDMwCsvJs/audio.rss
 http://75.127.6.164:1200/douban/group/726558
 http://75.127.6.164:1200/douban/group/647259
 https://catusf.github.io/radio2podcasts/MDRB-MandarinBeanAll.xml
