@@ -1,5 +1,6 @@
 https://api.substack.com/feed/podcast/2194667/private/0864e800-66e3-4fb2-a44d-57ed5b23baa6.rss
 http://75.127.6.164:1200/ximalaya/album/47716748
+http://75.127.6.164:1200/zhihu/zhuanlan/c_1518233281706995712
 https://kill-the-newsletter.com/feeds/6rjwhv15c09uyesz.xml
 https://feed.xyzfm.space/uqf3cf9dahxl
 https://www.ximalaya.com/album/37430417.xml
